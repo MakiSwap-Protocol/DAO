@@ -1,9 +1,9 @@
 {
   "master": {
     "network": "homestead",
-    "chainId": 4,
+    "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
-    "hubUrl": "https://makiswap-dev.thinkincoin.com",
+    "hubUrl": "https://dao.makiswap.com",
     "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
     "connectors": {
       "injected": {
@@ -29,9 +29,9 @@
   },
   "develop": {
     "network": "heco",
-    "chainId": 4,
+    "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
-    "hubUrl": "https://makiswap-dev.thinkincoin.com",
+    "hubUrl": "https://dao-dev.makiswap.com",
     "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
     "disableHostCheck": true,
     "connectors": {
