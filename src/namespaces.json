@@ -1,0 +1,27 @@
+{
+  "SOY": {
+    "key": "soy",
+    "symbol": "SOY",
+    "name": "SoyBar Token",
+    "address": "0x993163cad35162fb579d7b64e6695cb076ef5064",
+    "token": "0x993163cad35162fb579d7b64e6695cb076ef5064",
+    "image": "0x993163cad35162fb579d7b64e6695cb076ef5064",
+    "coreDevs": [
+      "0x07Dee7d1828554a59C8B5E1466Cba8C0B87daF10"
+    ],
+    "min": 100,
+    "max": 1000
+  },
+  "maki": {
+    "key": "maki",
+    "symbol": "MAKI",
+    "name": "MakiSwap Token",
+    "address": "0x89d45ccdae300e9a2a725eec8ec76dda571d6e2b",
+    "token": "0x89d45ccdae300e9a2a725eec8ec76dda571d6e2b",
+    "image": "0x89d45ccdae300e9a2a725eec8ec76dda571d6e2b",
+    "coreDevs": [
+    ],
+    "min": 10,
+    "max": 100
+  }
+}
